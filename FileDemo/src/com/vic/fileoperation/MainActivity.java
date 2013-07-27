@@ -21,6 +21,9 @@ public class MainActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         System.out.println("");
+        
+        
+        
         setContentView(R.layout.main);
         final EditText filename = (EditText) this.findViewById(R.id.filename);
         final EditText filecontent = (EditText) this.findViewById(R.id.content);
