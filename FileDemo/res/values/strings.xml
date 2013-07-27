@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">文件操作</string>
+    <string name="type_fileName">请输入文件名</string>
+    <string name="type_fileContent">请输入文件内容</string>
+    <string name="operation_suc">操作成功</string>
+    <string name="operation_fail">操作失败</string>
+    <string name="save">保存文件</string>
+    <string name="read">读取文件</string>
+    <string name="savefromsdcard">保存文件到sdcard</string>
+    <string name="readfromsdcard">读取文件从sdcard</string>
+    <string name="sdcarderror">sdcard不存在！</string>
+</resources>
