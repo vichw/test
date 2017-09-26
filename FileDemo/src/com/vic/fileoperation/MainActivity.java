@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        System.out.println("test1111");
+        System.out.println("test1111哎哎哎");
         
         
         
